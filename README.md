@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-	This project has been completed in collaboration with <a href="https://github.com/AntoineDouay" target="_blank">@AntoineDouay</a>.
+	This project has been completed in collaboration with <a href="https://github.com/il94" target="_blank">@il94</a>.
 </p>
 
 <h2 align="center">
